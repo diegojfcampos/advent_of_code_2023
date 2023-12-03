@@ -1,0 +1,14 @@
+
+target/
+
+nb-configuration.xml
+nbactions.xml
+
+*.log
+
+build/
+dist/
+nbproject/private/
+nbproject/Makefile-*
+nbproject/Package-*
+nbproject/built.xml
